@@ -4,7 +4,7 @@
 
 🎓 I am abdelrahman basheer, a **Front End Web Developer** (specializing in **React Applications**) and  I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
 
-🎸 Outside the world of tech, I am also a video editor freelancer with over 2 years of experience and i used to play handball professionally for 12 years 
+📹 Outside the world of tech, I am also a video editor freelancer with over 2 years of experience and i used to play handball professionally for 12 years 
 
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **Atomic Habits** in the genre of personal development and **Rich Dad Poor Dad**  in the genre of financial literacy.
 
@@ -35,7 +35,7 @@
 
 
 ### Cross Platform Development
-![React-Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+![React-Native](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Design Tools
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
@@ -43,7 +43,7 @@
 ### Testing
 
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![github](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)]
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 
 
 ## 🔗 Links
