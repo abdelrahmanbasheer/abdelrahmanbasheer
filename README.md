@@ -44,7 +44,7 @@
 
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=black)
+
 
 
 ## 🔗 Links
