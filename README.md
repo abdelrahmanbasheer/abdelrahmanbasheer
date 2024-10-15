@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am abdelrahman basheer, a **Front End Web Developer** (specializing in **React Applications**) and  I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
+🎓 I am abdelrahman basheer, a **Front End Web Developer** (specializing in **React Applications**) and  I have achieved my Bachelor in **Computer Science & Software Engineering**  in Septemeber 2024.
 
 📹 Outside the world of tech, I am also a video editor freelancer with over 2 years of experience and i used to play handball professionally for 12 years 
 
